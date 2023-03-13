@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menu
+  m_TableCollectionNameGuidString: 220c035481f6f1b4facc7c9d03008800
+  m_Entries:
+  - m_Id: 20248027136
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64183361536
+    m_Key: scenes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158429372416
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241740832768
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3014322577408
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3060631887872
+    m_Key: fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189766119424
+    m_Key: mastervolume
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7513740614790283264
+  references:
+    version: 2
+    RefIds:
+    - rid: 7513740614790283264
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678715328586
